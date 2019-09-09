@@ -1,0 +1,6 @@
+test\automation\restAPI\Utils.class
+test\automation\restAPI\CreateRequest.class
+test\automation\restAPI\GetRequest.class
+test\automation\restAPI\restapiRunner.class
+test\automation\restAPI\DeleteRequest.class
+test\automation\restAPI\Utils$1.class
